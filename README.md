@@ -3,7 +3,7 @@ Repositório do projeto de Desenvolvimento de Sistemas II
 
 ## Descrição do projeto
 
-Tema: Agendamento de serviços, o nosso tema será sobre uma plataforma que realiza o agendamento de serviços, no qual o usuário poderá utiliza-la para, por exemplo, marcar consulta no dentista, no médico, ou agendar um horário no cabeleireiro, etc. 
+Tema: Agendamento de serviços, o nosso tema será sobre uma plataforma que realiza o agendamento de serviços, no qual o usuário poderá utilizar para, por exemplo, marcar consulta no dentista, no médico, ou agendar um horário no cabeleireiro, etc. 
 
 ## Sobre os membros
 
