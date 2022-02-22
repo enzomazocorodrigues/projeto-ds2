@@ -12,3 +12,4 @@ Tema: ???
 ### Enzo Mazoco
   Me chamo Enzo Mazoco Rodrigues, sou estudante de Sistemas de Informações no Mackenzie e sempre tive contato com tecnologia através do meu pai. Atualmente, faço parte de uma equipe de desenvolvimento, que distribui uma plataforma ERP.
 ### Gabriel Morieira
+  Eu sou o Gabriel e estou fazendo o 3º semestre do curso Sistemas de Informação na Universidade Presbiteriana Mackenzie. Ainda não fiz estágio mas teria interesse em qualquer área de tecnologia, mais especificamente no desenvolvimento de web.
