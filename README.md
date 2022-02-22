@@ -3,7 +3,7 @@ Repositório do projeto de Desenvolvimento de Sistemas II
 
 ## Descrição do projeto
 
-Tema: ???
+Tema: Agendamento de serviços
 
 ## Sobre os membros
 
