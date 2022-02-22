@@ -5,4 +5,4 @@ Repositório do projeto de Desenvolvimento de Sistemas II
 
 ### Enzo Cecone 
 ### Enzo Mazoco
-### Gabriel Morieira
+### Gabriel Moreira
