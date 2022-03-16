@@ -1,9 +1,10 @@
 # Projeto de Desenvolvimento de Sistemas II
+
 Repositório do projeto de Desenvolvimento de Sistemas II
 
 ## Descrição do projeto
 
-Aplicação de agendamento de consultas conectando os cliente, os médicos e as secretárias. 
+Aplicação de agendamento de consultas conectando os pacientes, médicos e secretárias. 
 
 ## Sobre os membros
 
