@@ -4,7 +4,7 @@ Repositório do projeto de Desenvolvimento de Sistemas II
 
 ## Descrição do projeto
 
-Aplicação de agendamento em um sistema de agência de viagens
+O projeto será sobre uma entidade de negócio em um sistema de compra e reserva de pacotes em uma companhia de viagens
 
 ## Sobre os membros
 
